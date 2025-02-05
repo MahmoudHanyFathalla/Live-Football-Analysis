@@ -5,6 +5,8 @@ This project focuses on leveraging advanced computer vision techniques to analyz
 
 Furthermore, the project integrates several advanced techniques such as pixel segmentation, optical flow analysis, and perspective transformation to improve the accuracy and depth of the analysis. Player team identification is accomplished through clustering based on t-shirt color, while camera movement and player movement are measured using optical flow and perspective transformation, respectively. This comprehensive approach also allows for calculating player speeds and distances covered during the match.
 
+![Demo Animation](out/output_video.avi)
+
 ## Features and Functionality
 - **Player, Referee, and Ball Detection**: YOLO v5 is used for real-time object detection to identify players, referees, and footballs within each frame of the video.
   
